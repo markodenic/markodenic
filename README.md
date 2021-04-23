@@ -19,11 +19,11 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
 - [CSS Generators](https://markodenic.com/css-generators/)
 - [Technical interview resources](https://markodenic.com/resources-to-crush-the-technical-interview/)
 - [50 free tools and resources (Part 2)](https://markodenic.com/50-free-tools-and-resources-part-2/)
 - [50 free tools and resources](https://markodenic.com/50-free-tools-and-resources/)
-- [GitHub repositories to improve skills](https://markodenic.com/github-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 
