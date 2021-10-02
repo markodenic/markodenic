@@ -26,4 +26,5 @@ I'm a Web Developer helping others become one too.
 - [Technical interview resources](https://markodenic.com/resources-to-crush-the-technical-interview/)
 <!-- BLOG-POST-LIST:END -->
 
-
+<h2> Ooops!! A Snake eating my Github Contributions Graph </h2>
+<img src="https://github.com/kr-anurag/markodenic/blob/output/github-contribution-grid-snake.gif" />
