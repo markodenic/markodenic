@@ -26,4 +26,7 @@ I'm a Web Developer helping others become one too.
 - [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest Github activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
