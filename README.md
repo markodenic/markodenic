@@ -28,5 +28,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#147](https://github.com/markodenic/awesome-tech-blogs/pull/147) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🎉 Merged PR [#146](https://github.com/markodenic/awesome-tech-blogs/pull/146) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 🎉 Merged PR [#139](https://github.com/markodenic/awesome-tech-blogs/pull/139) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🎉 Merged PR [#150](https://github.com/markodenic/awesome-tech-blogs/pull/150) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. ❗️ Closed issue [#138](https://github.com/markodenic/awesome-tech-blogs/issues/138) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
