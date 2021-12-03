@@ -17,7 +17,7 @@ I'm a Web Developer helping others become one too.
 &ensp;<a href="https://dev.to/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="DEV" alt="Marko Denic Dev.to profile" width="30"/></a>
 &ensp;<a href="https://denic.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" title="Hashnode" alt="Marko Denic Hashnode blog" width="30"/></a>
 &ensp;<a href="https://github.com/markodenic"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="Marko Denic GitHub profile" width="30"/></a>
-<br><br>
+<br>
 
 ## ⚡ Github Stats
 
