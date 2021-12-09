@@ -31,11 +31,11 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to do keyword research](https://markodenic.com/how-to-do-keyword-research/)
 - [Interactive learning tools](https://markodenic.com/interactive-learning-tools/)
 - [Why every dev should have a Twitter presence](https://markodenic.com/why-every-dev-should-have-a-twitter-presence/)
 - [Free certifications for developers](https://markodenic.com/free-certifications-for-developers/)
 - [Free Courses](https://markodenic.com/free-courses/)
-- [Make your first open source contribution](https://markodenic.com/make-your-first-open-source-contribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
