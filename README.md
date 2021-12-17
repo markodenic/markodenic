@@ -31,11 +31,11 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [17 Profitable Business Ideas for Web Developers to Start in 2022.](https://markodenic.com/17-profitable-business-ideas-for-web-developers-to-start-in-2022/)
 - [How to do keyword research](https://markodenic.com/how-to-do-keyword-research/)
 - [Interactive learning tools](https://markodenic.com/interactive-learning-tools/)
 - [Why every dev should have a Twitter presence](https://markodenic.com/why-every-dev-should-have-a-twitter-presence/)
 - [Free certifications for developers](https://markodenic.com/free-certifications-for-developers/)
-- [Free Courses](https://markodenic.com/free-courses/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
