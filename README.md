@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#228](https://github.com/markodenic/web-development-resources/pull/228) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#227](https://github.com/markodenic/web-development-resources/issues/227) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#226](https://github.com/markodenic/web-development-resources/pull/226) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🗣 Commented on [#226](https://github.com/markodenic/web-development-resources/issues/226) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#154](https://github.com/markodenic/awesome-tech-blogs/pull/154) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🗣 Commented on [#228](https://github.com/markodenic/web-development-resources/issues/228) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. ❌ Closed PR [#228](https://github.com/markodenic/web-development-resources/pull/228) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#227](https://github.com/markodenic/web-development-resources/issues/227) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❌ Closed PR [#226](https://github.com/markodenic/web-development-resources/pull/226) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🗣 Commented on [#226](https://github.com/markodenic/web-development-resources/issues/226) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
