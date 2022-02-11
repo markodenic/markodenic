@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/markodenic/web-development-resources/issues/245) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. ❗️ Closed issue [#245](https://github.com/markodenic/web-development-resources/issues/245) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#265](https://github.com/markodenic/awesome-tech-blogs/pull/265) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🎉 Merged PR [#264](https://github.com/markodenic/awesome-tech-blogs/pull/264) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#263](https://github.com/markodenic/awesome-tech-blogs/issues/263) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🎉 Merged PR [#237](https://github.com/markodenic/web-development-resources/pull/237) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. ❌ Closed PR [#8](https://github.com/markodenic/awesome-html-css-js-tips/pull/8) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+3. 🗣 Commented on [#8](https://github.com/markodenic/awesome-html-css-js-tips/issues/8) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+4. ❌ Closed PR [#7](https://github.com/markodenic/awesome-html-css-js-tips/pull/7) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+5. 🗣 Commented on [#7](https://github.com/markodenic/awesome-html-css-js-tips/issues/7) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
 <!--END_SECTION:activity-->
 
