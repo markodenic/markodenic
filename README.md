@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/markodenic/web-development-resources/pull/291) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. ❌ Closed PR [#297](https://github.com/markodenic/web-development-resources/pull/297) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🗣 Commented on [#297](https://github.com/markodenic/web-development-resources/issues/297) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❗️ Closed issue [#290](https://github.com/markodenic/web-development-resources/issues/290) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#290](https://github.com/markodenic/web-development-resources/issues/290) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#299](https://github.com/markodenic/web-development-resources/pull/299) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🎉 Merged PR [#293](https://github.com/markodenic/web-development-resources/pull/293) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. ❌ Closed PR [#292](https://github.com/markodenic/web-development-resources/pull/292) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🗣 Commented on [#292](https://github.com/markodenic/web-development-resources/issues/292) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🎉 Merged PR [#291](https://github.com/markodenic/web-development-resources/pull/291) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
