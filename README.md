@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/markodenic/web-development-resources/issues/306) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🎉 Merged PR [#305](https://github.com/markodenic/web-development-resources/pull/305) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#304](https://github.com/markodenic/web-development-resources/pull/304) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🎉 Merged PR [#303](https://github.com/markodenic/web-development-resources/pull/303) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❌ Closed PR [#208](https://github.com/markodenic/awesome-tech-blogs/pull/208) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🎉 Merged PR [#311](https://github.com/markodenic/web-development-resources/pull/311) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🎉 Merged PR [#308](https://github.com/markodenic/web-development-resources/pull/308) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#306](https://github.com/markodenic/web-development-resources/issues/306) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🎉 Merged PR [#305](https://github.com/markodenic/web-development-resources/pull/305) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🎉 Merged PR [#304](https://github.com/markodenic/web-development-resources/pull/304) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
