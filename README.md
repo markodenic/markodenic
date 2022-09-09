@@ -31,11 +31,11 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS line-height](https://markodenic.com/css-line-height/)
 - [Make your first open source contribution](https://markodenic.com/make-your-first-open-source-contribution/)
 - [WordPress Tips And Tricks](https://markodenic.com/wordpress-tips-and-tricks/)
 - [10 Examples of Great Website Design](https://markodenic.com/10-examples-of-great-website-design/)
 - [How to Write Long-tail Keyword Articles](https://markodenic.com/how-to-write-long-tail-keyword-articles/)
-- [17 Profitable Business Ideas for Web Developers to Start in 2022.](https://markodenic.com/17-profitable-business-ideas-for-web-developers-to-start-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
