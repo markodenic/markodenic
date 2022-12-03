@@ -31,7 +31,7 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to optimize SEO](https://markodenic.com/how-to-optimize-seo/)
+- [How to optimize your website for SEO](https://markodenic.com/how-to-optimize-seo/)
 - [Earning $500 /mo On The Side As A Developer](https://markodenic.com/earning-500-per-month-on-the-side-as-a-developer/)
 - [Building a SaaS with React](https://markodenic.com/building-a-saas-with-react/)
 - [CSS line-height](https://markodenic.com/css-line-height/)
