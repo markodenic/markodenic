@@ -31,11 +31,11 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to optimize SEO](https://markodenic.com/how-to-optimize-seo/)
 - [Earning $500 /mo On The Side As A Developer](https://markodenic.com/earning-500-per-month-on-the-side-as-a-developer/)
 - [Building a SaaS with React](https://markodenic.com/building-a-saas-with-react/)
 - [CSS line-height](https://markodenic.com/css-line-height/)
 - [Make your first open source contribution](https://markodenic.com/make-your-first-open-source-contribution/)
-- [WordPress Tips And Tricks](https://markodenic.com/wordpress-tips-and-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
