@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2749](https://github.com/ripienaar/free-for-dev/pull/2749) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. 🎉 Merged PR [#391](https://github.com/markodenic/awesome-tech-blogs/pull/391) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 🗣 Commented on [#391](https://github.com/markodenic/awesome-tech-blogs/issues/391) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🎉 Merged PR [#389](https://github.com/markodenic/awesome-tech-blogs/pull/389) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🎉 Merged PR [#387](https://github.com/markodenic/awesome-tech-blogs/pull/387) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ❌ Closed PR [#2749](https://github.com/ripienaar/free-for-dev/pull/2749) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+2. 🗣 Commented on [#2749](https://github.com/ripienaar/free-for-dev/issues/2749) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+3. 💪 Opened PR [#2751](https://github.com/ripienaar/free-for-dev/pull/2751) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. 💪 Opened PR [#2749](https://github.com/ripienaar/free-for-dev/pull/2749) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+5. 🎉 Merged PR [#391](https://github.com/markodenic/awesome-tech-blogs/pull/391) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
