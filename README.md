@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/markodenic/public-apis/pull/12) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-2. ❌ Closed PR [#7](https://github.com/markodenic/public-apis/pull/7) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-3. 🗣 Commented on [#7](https://github.com/markodenic/public-apis/issues/7) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-4. 🎉 Merged PR [#365](https://github.com/markodenic/web-development-resources/pull/365) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#414](https://github.com/markodenic/web-development-resources/pull/414) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#425](https://github.com/markodenic/web-development-resources/pull/425) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🎉 Merged PR [#12](https://github.com/markodenic/public-apis/pull/12) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+3. ❌ Closed PR [#7](https://github.com/markodenic/public-apis/pull/7) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+4. 🗣 Commented on [#7](https://github.com/markodenic/public-apis/issues/7) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+5. 🎉 Merged PR [#365](https://github.com/markodenic/web-development-resources/pull/365) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
