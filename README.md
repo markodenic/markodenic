@@ -40,10 +40,10 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#366](https://github.com/markodenic/web-development-resources/pull/366) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#366](https://github.com/markodenic/web-development-resources/issues/366) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#362](https://github.com/markodenic/web-development-resources/pull/362) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🎉 Merged PR [#425](https://github.com/markodenic/web-development-resources/pull/425) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#12](https://github.com/markodenic/public-apis/pull/12) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+1. 🎉 Merged PR [#386](https://github.com/markodenic/awesome-tech-blogs/pull/386) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🎉 Merged PR [#385](https://github.com/markodenic/awesome-tech-blogs/pull/385) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 🗣 Commented on [#384](https://github.com/markodenic/awesome-tech-blogs/issues/384) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🎉 Merged PR [#383](https://github.com/markodenic/awesome-tech-blogs/pull/383) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. ❌ Closed PR [#429](https://github.com/markodenic/web-development-resources/pull/429) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
