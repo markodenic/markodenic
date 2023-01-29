@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
 [![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
 
-# Hi! 👋 I'm [Marko Denic](https://markodenic.com) 💻
+# Hi! 👋 I'm [Marko](https://markodenic.com) 💻
 
 I'm a Web Developer helping others become one too.
 
