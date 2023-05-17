@@ -31,11 +31,11 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Tutorial](https://markodenic.com/css-tutorial/)
 - [Kubernetes quick tutorial](https://markodenic.com/kubernetes-quick-tutorial/)
 - [CSS Flexbox](https://markodenic.com/css-flexbox/)
 - [HTML input types](https://markodenic.com/html-input-types/)
 - [What is new in Next 13?](https://markodenic.com/what-is-new-in-next-13/)
-- [How to optimize your website for SEO](https://markodenic.com/how-to-optimize-seo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
