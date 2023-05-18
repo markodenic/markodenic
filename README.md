@@ -12,7 +12,7 @@ I'm a Web Developer, helping others become one too.
 <a href="https://twitter.com/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Marko Denic Twitter profile" width="40"/></a>
 &ensp;<a href="https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="Marko Denic YouTube profile" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/denicmarko/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Marko Denic Linkedin account" width="30"/></a>
-&ensp;<a href="https://www.instagram.com/denicmarko_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Marko Denic's Instagram profile" width="30" /></a>
+&ensp;<a href="https://www.instagram.com/denicmarko_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Marko Denic's Instagram profile" width="30" /></a>
 &ensp;<a href="https://www.showwcase.com/denicmarko"><img src="https://www.showwcase.com/favicon.png" title="Showwcase" alt="Marko Denic Showwcase profile" width="30"/></a>
 &ensp;<a href="https://dev.to/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="DEV" alt="Marko Denic Dev.to profile" width="30"/></a>
 &ensp;<a href="https://denic.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" title="Hashnode" alt="Marko Denic Hashnode blog" width="30"/></a>
