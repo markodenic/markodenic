@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1275](https://github.com/emmabostian/developer-portfolios/pull/1275) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
-2. 🗣 Commented on [#448](https://github.com/markodenic/web-development-resources/issues/448) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#445](https://github.com/markodenic/web-development-resources/pull/445) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🗣 Commented on [#445](https://github.com/markodenic/web-development-resources/issues/445) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❌ Closed PR [#446](https://github.com/markodenic/web-development-resources/pull/446) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 💪 Opened PR [#7178](https://github.com/EddieHubCommunity/LinkFree/pull/7178) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#1275](https://github.com/emmabostian/developer-portfolios/pull/1275) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+3. 🗣 Commented on [#448](https://github.com/markodenic/web-development-resources/issues/448) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❌ Closed PR [#445](https://github.com/markodenic/web-development-resources/pull/445) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🗣 Commented on [#445](https://github.com/markodenic/web-development-resources/issues/445) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
