@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#437](https://github.com/markodenic/web-development-resources/pull/437) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#437](https://github.com/markodenic/web-development-resources/issues/437) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❗️ Closed issue [#455](https://github.com/markodenic/web-development-resources/issues/455) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❗️ Closed issue [#454](https://github.com/markodenic/web-development-resources/issues/454) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#448](https://github.com/markodenic/web-development-resources/pull/448) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 💪 Opened PR [#194](https://github.com/lauragift21/awesome-learning-resources/pull/194) in [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
+2. 🎉 Merged PR [#437](https://github.com/markodenic/web-development-resources/pull/437) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#437](https://github.com/markodenic/web-development-resources/issues/437) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❗️ Closed issue [#455](https://github.com/markodenic/web-development-resources/issues/455) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❗️ Closed issue [#454](https://github.com/markodenic/web-development-resources/issues/454) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
