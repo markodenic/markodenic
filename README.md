@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#419](https://github.com/markodenic/awesome-tech-blogs/pull/419) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. ❌ Closed PR [#418](https://github.com/markodenic/awesome-tech-blogs/pull/418) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 🗣 Commented on [#418](https://github.com/markodenic/awesome-tech-blogs/issues/418) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🗣 Commented on [#417](https://github.com/markodenic/awesome-tech-blogs/issues/417) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🎉 Merged PR [#417](https://github.com/markodenic/awesome-tech-blogs/pull/417) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 💪 Opened PR [#207](https://github.com/Olanetsoft/awesome-article-collection/pull/207) in [Olanetsoft/awesome-article-collection](https://github.com/Olanetsoft/awesome-article-collection)
+2. 🎉 Merged PR [#419](https://github.com/markodenic/awesome-tech-blogs/pull/419) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. ❌ Closed PR [#418](https://github.com/markodenic/awesome-tech-blogs/pull/418) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🗣 Commented on [#418](https://github.com/markodenic/awesome-tech-blogs/issues/418) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🗣 Commented on [#417](https://github.com/markodenic/awesome-tech-blogs/issues/417) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
