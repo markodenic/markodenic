@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#428](https://github.com/markodenic/web-development-resources/pull/428) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#428](https://github.com/markodenic/web-development-resources/pull/428#issuecomment-1734876459) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#427](https://github.com/markodenic/awesome-tech-blogs/pull/427) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🗣 Commented on [#427](https://github.com/markodenic/awesome-tech-blogs/pull/427#issuecomment-1732281758) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#424](https://github.com/markodenic/awesome-tech-blogs/pull/424#issuecomment-1732281558) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🎉 Merged PR [#424](https://github.com/markodenic/awesome-tech-blogs/pull/424) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🎉 Merged PR [#428](https://github.com/markodenic/web-development-resources/pull/428) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#428](https://github.com/markodenic/web-development-resources/pull/428#issuecomment-1734876459) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🎉 Merged PR [#427](https://github.com/markodenic/awesome-tech-blogs/pull/427) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🗣 Commented on [#427](https://github.com/markodenic/awesome-tech-blogs/pull/427#issuecomment-1732281758) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
