@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#500](https://github.com/markodenic/web-development-resources/pull/500) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🎉 Merged PR [#498](https://github.com/markodenic/web-development-resources/pull/498) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🗣 Commented on [#498](https://github.com/markodenic/web-development-resources/pull/498#issuecomment-1751654634) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🗣 Commented on [#492](https://github.com/markodenic/web-development-resources/pull/492#issuecomment-1751654421) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#436](https://github.com/markodenic/awesome-tech-blogs/pull/436) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🎉 Merged PR [#437](https://github.com/markodenic/awesome-tech-blogs/pull/437) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🎉 Merged PR [#500](https://github.com/markodenic/web-development-resources/pull/500) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🎉 Merged PR [#498](https://github.com/markodenic/web-development-resources/pull/498) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🗣 Commented on [#498](https://github.com/markodenic/web-development-resources/pull/498#issuecomment-1751654634) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🗣 Commented on [#492](https://github.com/markodenic/web-development-resources/pull/492#issuecomment-1751654421) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
