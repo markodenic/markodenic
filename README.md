@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#504](https://github.com/markodenic/web-development-resources/pull/504) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🔒 Closed issue [#508](https://github.com/markodenic/web-development-resources/issues/508) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#492](https://github.com/markodenic/web-development-resources/pull/492) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🎉 Merged PR [#510](https://github.com/markodenic/web-development-resources/pull/510) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#437](https://github.com/markodenic/awesome-tech-blogs/pull/437) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🎉 Merged PR [#505](https://github.com/markodenic/web-development-resources/pull/505) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. ❌ Closed PR [#503](https://github.com/markodenic/web-development-resources/pull/503) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#502](https://github.com/markodenic/web-development-resources/pull/502#issuecomment-1792577144) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❌ Closed PR [#502](https://github.com/markodenic/web-development-resources/pull/502) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❌ Closed PR [#501](https://github.com/markodenic/web-development-resources/pull/501) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
