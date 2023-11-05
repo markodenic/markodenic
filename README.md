@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#505](https://github.com/markodenic/web-development-resources/pull/505) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. ❌ Closed PR [#503](https://github.com/markodenic/web-development-resources/pull/503) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🗣 Commented on [#502](https://github.com/markodenic/web-development-resources/pull/502#issuecomment-1792577144) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❌ Closed PR [#502](https://github.com/markodenic/web-development-resources/pull/502) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❌ Closed PR [#501](https://github.com/markodenic/web-development-resources/pull/501) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#509](https://github.com/markodenic/web-development-resources/pull/509) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🎉 Merged PR [#506](https://github.com/markodenic/web-development-resources/pull/506) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🎉 Merged PR [#505](https://github.com/markodenic/web-development-resources/pull/505) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❌ Closed PR [#503](https://github.com/markodenic/web-development-resources/pull/503) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🗣 Commented on [#502](https://github.com/markodenic/web-development-resources/pull/502#issuecomment-1792577144) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
