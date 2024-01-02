@@ -10,7 +10,7 @@ I'm a Web Developer, helping others become one too.
 
 <!-- Socials -->
 <a href="https://twitter.com/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Marko Denic Twitter profile" width="40"/></a>
-&ensp;<a href="https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="Marko Denic YouTube profile" width="40"/></a>
+&ensp;<a href="https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" title="YouTube" alt="Marko Denic YouTube profile" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/denicmarko/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Marko Denic Linkedin account" width="30"/></a>
 &ensp;<a href="https://www.instagram.com/denicmarko_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Marko Denic's Instagram profile" width="30" /></a>
 &ensp;<a href="https://www.showwcase.com/denicmarko"><img src="https://www.showwcase.com/favicon.png" title="Showwcase" alt="Marko Denic Showwcase profile" width="30"/></a>
