@@ -31,11 +31,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Page: 5 Social Milestones You Need to Conquer to Land a Sale](https://markodenic.com/home-page-5-social-milestones-you-need-to-conquer-to-land-a-sale/)
 - [Web Performance](https://markodenic.com/web-performance/)
 - [From zero to Web developer](https://markodenic.com/from-zero-to-web-developer/)
 - [The Psychology of Colors in WordPress Design](https://markodenic.com/psychology-of-colors-in-wordpress-design/)
 - [CSS Tutorial](https://markodenic.com/css-tutorial/)
-- [Kubernetes quick tutorial](https://markodenic.com/kubernetes-quick-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
