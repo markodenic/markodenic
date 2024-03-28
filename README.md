@@ -32,7 +32,7 @@ I'm a Web Developer, helping others become one too.
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [Best Websites To Get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)
-- [A Comprehensive Review of ClientManager: Your Gateway to Streamlined Project Management](https://markodenic.com/a-comprehensive-review-of-clientmanager-your-gateway-to-streamlined-project-management/)
+- [ClientManager Review: Onboarding &amp; Client Management In One Place](https://markodenic.com/a-comprehensive-review-of-clientmanager-your-gateway-to-streamlined-project-management/)
 - [Home Page: 5 Social Milestones You Need to Conquer to Land a Sale](https://markodenic.com/home-page-5-social-milestones-you-need-to-conquer-to-land-a-sale/)
 - [Web Performance](https://markodenic.com/web-performance/)
 - [From zero to Web developer](https://markodenic.com/from-zero-to-web-developer/)
