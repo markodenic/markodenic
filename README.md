@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#593](https://github.com/markodenic/web-development-resources/pull/593) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#593](https://github.com/markodenic/web-development-resources/pull/593#issuecomment-2294814940) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🗣 Commented on [#592](https://github.com/markodenic/web-development-resources/pull/592#issuecomment-2294814369) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❌ Closed PR [#592](https://github.com/markodenic/web-development-resources/pull/592) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#587](https://github.com/markodenic/web-development-resources/pull/587#issuecomment-2294814236) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🗣 Commented on [#459](https://github.com/markodenic/awesome-tech-blogs/pull/459#issuecomment-2294825140) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. ❌ Closed PR [#459](https://github.com/markodenic/awesome-tech-blogs/pull/459) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 🎉 Merged PR [#458](https://github.com/markodenic/awesome-tech-blogs/pull/458) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🗣 Commented on [#457](https://github.com/markodenic/awesome-tech-blogs/pull/457#issuecomment-2294824848) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. ❌ Closed PR [#457](https://github.com/markodenic/awesome-tech-blogs/pull/457) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
