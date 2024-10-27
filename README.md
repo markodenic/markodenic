@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#612](https://github.com/markodenic/web-development-resources/issues/612) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#598](https://github.com/markodenic/web-development-resources/pull/598#issuecomment-2439557105) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#598](https://github.com/markodenic/web-development-resources/pull/598) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❌ Closed PR [#600](https://github.com/markodenic/web-development-resources/pull/600) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#601](https://github.com/markodenic/web-development-resources/pull/601#issuecomment-2439556827) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#460](https://github.com/markodenic/awesome-tech-blogs/pull/460) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🔒 Closed issue [#612](https://github.com/markodenic/web-development-resources/issues/612) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#598](https://github.com/markodenic/web-development-resources/pull/598#issuecomment-2439557105) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❌ Closed PR [#598](https://github.com/markodenic/web-development-resources/pull/598) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❌ Closed PR [#600](https://github.com/markodenic/web-development-resources/pull/600) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
