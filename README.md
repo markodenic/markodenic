@@ -40,10 +40,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#618](https://github.com/markodenic/web-development-resources/issues/618) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🔒 Closed issue [#617](https://github.com/markodenic/web-development-resources/issues/617) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#465](https://github.com/markodenic/awesome-tech-blogs/pull/465) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🎉 Merged PR [#462](https://github.com/markodenic/awesome-tech-blogs/pull/462) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#461](https://github.com/markodenic/awesome-tech-blogs/pull/461#issuecomment-2439938005) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🔒 Closed issue [#625](https://github.com/markodenic/web-development-resources/issues/625) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🔒 Closed issue [#622](https://github.com/markodenic/web-development-resources/issues/622) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🔒 Closed issue [#621](https://github.com/markodenic/web-development-resources/issues/621) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🗣 Commented on [#627](https://github.com/markodenic/web-development-resources/pull/627#issuecomment-2505550014) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❌ Closed PR [#627](https://github.com/markodenic/web-development-resources/pull/627) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
