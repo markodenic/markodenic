@@ -33,7 +33,7 @@ I'm a Web Developer, helping others become one too.
 <!-- BLOG-POST-LIST:START -->
 - [Git Cheat Sheet](https://markodenic.com/git-cheat-sheet/)
 - [Best Websites To Get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)
-- [ClientManager Review: Onboarding &amp; Client Management In One Place](https://markodenic.com/a-comprehensive-review-of-clientmanager-your-gateway-to-streamlined-project-management/)
+- [ClientManager Review: Onboarding and Client Management In One Place](https://markodenic.com/a-comprehensive-review-of-clientmanager-your-gateway-to-streamlined-project-management/)
 - [Home Page: 5 Social Milestones You Need to Conquer to Land a Sale](https://markodenic.com/home-page-5-social-milestones-you-need-to-conquer-to-land-a-sale/)
 - [Web Performance](https://markodenic.com/web-performance/)
 <!-- BLOG-POST-LIST:END -->
