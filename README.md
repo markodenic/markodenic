@@ -29,6 +29,9 @@ I'm a Web Developer, helping others become one too.
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://x.com/denicmarko) 
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/denicmarko_/)
 
+### 💻 Tools
+[CSS Button Generator](https://markodenic.com/tools/buttons-generator/) - [Glassmorphism Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) - [Tech Acronyms (Initialisms) Explorer](https://markodenic.com/tools/tech-acronyms-explorer/) - [Markdown Preview](https://freecodetools.org/markdown-preview/) - [Word Counter](https://freecodetools.org/word-counter/) - [Article Banner PRO](https://articlebannerpro.com/)
+
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [Git Cheat Sheet](https://markodenic.com/git-cheat-sheet/)
