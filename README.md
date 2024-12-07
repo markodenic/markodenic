@@ -31,10 +31,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Button Generator](https://markodenic.com/tools/buttons-generator/)
-- [Tech Acronyms &lpar;Initialisms&rpar; Explorer](https://markodenic.com/tools/tech-acronyms-explorer/)
-- [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
-- [QR code generator](https://markodenic.com/tools/qr-code-generator/)
+- [Git Cheat Sheet](https://markodenic.com/git-cheat-sheet/)
+- [Best Websites To Get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)
+- [ClientManager Review: Onboarding and Client Management In One Place](https://markodenic.com/a-comprehensive-review-of-clientmanager-your-gateway-to-streamlined-project-management/)
+- [Home Page: 5 Social Milestones You Need to Conquer to Land a Sale](https://markodenic.com/home-page-5-social-milestones-you-need-to-conquer-to-land-a-sale/)
+- [Web Performance](https://markodenic.com/web-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest tools
