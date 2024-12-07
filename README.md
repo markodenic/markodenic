@@ -38,10 +38,6 @@ I'm a Web Developer, helping others become one too.
 - [Web Performance](https://markodenic.com/web-performance/)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest tools
-<!-- TOOLS-LIST:START -->
-<!-- TOOLS-LIST:END -->
-
 ### Latest Github activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#629](https://github.com/markodenic/web-development-resources/pull/629#issuecomment-2521159517) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
