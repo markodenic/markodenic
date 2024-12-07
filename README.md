@@ -26,8 +26,8 @@ I'm a Web Developer, helping others become one too.
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/denicmarko/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/denicmarko) 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/markodenic1/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://x.com/denicmarko) 
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/denicmarko_/)
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,6 +37,10 @@ I'm a Web Developer, helping others become one too.
 - [Home Page: 5 Social Milestones You Need to Conquer to Land a Sale](https://markodenic.com/home-page-5-social-milestones-you-need-to-conquer-to-land-a-sale/)
 - [Web Performance](https://markodenic.com/web-performance/)
 <!-- BLOG-POST-LIST:END -->
+
+### Latest tools
+<!-- TOOLS-LIST:START -->
+<!-- TOOLS-LIST:END -->
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
