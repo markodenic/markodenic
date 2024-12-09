@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#628](https://github.com/markodenic/web-development-resources/issues/628) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#629](https://github.com/markodenic/web-development-resources/pull/629#issuecomment-2521159517) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#629](https://github.com/markodenic/web-development-resources/pull/629) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🔒 Closed issue [#625](https://github.com/markodenic/web-development-resources/issues/625) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🔒 Closed issue [#622](https://github.com/markodenic/web-development-resources/issues/622) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🔒 Closed issue [#631](https://github.com/markodenic/web-development-resources/issues/631) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🔒 Closed issue [#639](https://github.com/markodenic/web-development-resources/issues/639) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🔒 Closed issue [#638](https://github.com/markodenic/web-development-resources/issues/638) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🔒 Closed issue [#637](https://github.com/markodenic/web-development-resources/issues/637) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🔒 Closed issue [#636](https://github.com/markodenic/web-development-resources/issues/636) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
