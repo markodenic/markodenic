@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#466](https://github.com/markodenic/awesome-tech-blogs/pull/466) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. 🔒 Closed issue [#631](https://github.com/markodenic/web-development-resources/issues/631) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🔒 Closed issue [#639](https://github.com/markodenic/web-development-resources/issues/639) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🔒 Closed issue [#638](https://github.com/markodenic/web-development-resources/issues/638) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🔒 Closed issue [#637](https://github.com/markodenic/web-development-resources/issues/637) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🗣 Commented on [#641](https://github.com/markodenic/web-development-resources/issues/641#issuecomment-2543054720) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🔒 Closed issue [#641](https://github.com/markodenic/web-development-resources/issues/641) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🔒 Closed issue [#640](https://github.com/markodenic/web-development-resources/issues/640) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🎉 Merged PR [#466](https://github.com/markodenic/awesome-tech-blogs/pull/466) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🔒 Closed issue [#631](https://github.com/markodenic/web-development-resources/issues/631) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
