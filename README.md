@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/ansidev/awesome-nuxt/pull/270) in [ansidev/awesome-nuxt](https://github.com/ansidev/awesome-nuxt)
-2. 💪 Opened PR [#563](https://github.com/nuxt/awesome/pull/563) in [nuxt/awesome](https://github.com/nuxt/awesome)
-3. 💪 Opened PR [#4221](https://github.com/vuejs/awesome-vue/pull/4221) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-4. 💪 Opened PR [#300](https://github.com/docsifyjs/awesome-docsify/pull/300) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🎉 Merged PR [#643](https://github.com/markodenic/web-development-resources/pull/643) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🔒 Closed issue [#36](https://github.com/markodenic/public-apis/issues/36) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+2. 🔒 Closed issue [#35](https://github.com/markodenic/public-apis/issues/35) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+3. 🔒 Closed issue [#34](https://github.com/markodenic/public-apis/issues/34) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+4. 🔒 Closed issue [#31](https://github.com/markodenic/public-apis/issues/31) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+5. 🔒 Closed issue [#33](https://github.com/markodenic/public-apis/issues/33) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
 <!--END_SECTION:activity-->
 
