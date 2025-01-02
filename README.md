@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#36](https://github.com/markodenic/public-apis/issues/36) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-2. 🔒 Closed issue [#35](https://github.com/markodenic/public-apis/issues/35) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-3. 🔒 Closed issue [#34](https://github.com/markodenic/public-apis/issues/34) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-4. 🔒 Closed issue [#31](https://github.com/markodenic/public-apis/issues/31) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-5. 🔒 Closed issue [#33](https://github.com/markodenic/public-apis/issues/33) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+1. 🔒 Closed issue [#37](https://github.com/markodenic/public-apis/issues/37) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+2. 🗣 Commented on [#467](https://github.com/markodenic/awesome-tech-blogs/issues/467#issuecomment-2567624573) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 🔒 Closed issue [#467](https://github.com/markodenic/awesome-tech-blogs/issues/467) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🔒 Closed issue [#36](https://github.com/markodenic/public-apis/issues/36) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+5. 🔒 Closed issue [#35](https://github.com/markodenic/public-apis/issues/35) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
 <!--END_SECTION:activity-->
 
