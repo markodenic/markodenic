@@ -34,11 +34,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Mistral AI on Linux](https://markodenic.com/install-mistral-ai-on-linux/)
 - [Install Deepseek on Linux](https://markodenic.com/install-deepseek-on-linux/)
 - [Git Cheat Sheet](https://markodenic.com/git-cheat-sheet/)
 - [Best Websites To Get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)
 - [ClientManager Review: Onboarding and Client Management In One Place](https://markodenic.com/a-comprehensive-review-of-clientmanager-your-gateway-to-streamlined-project-management/)
-- [Home Page: 5 Social Milestones You Need to Conquer to Land a Sale](https://markodenic.com/home-page-5-social-milestones-you-need-to-conquer-to-land-a-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Github activities
