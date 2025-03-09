@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#471](https://github.com/markodenic/awesome-tech-blogs/pull/471) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. 🎉 Merged PR [#649](https://github.com/markodenic/web-development-resources/pull/649) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#648](https://github.com/markodenic/web-development-resources/pull/648) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❌ Closed PR [#647](https://github.com/markodenic/web-development-resources/pull/647) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#646](https://github.com/markodenic/web-development-resources/pull/646) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🗣 Commented on [#652](https://github.com/markodenic/web-development-resources/pull/652#issuecomment-2708823874) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. ❌ Closed PR [#652](https://github.com/markodenic/web-development-resources/pull/652) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🎉 Merged PR [#651](https://github.com/markodenic/web-development-resources/pull/651) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🗣 Commented on [#650](https://github.com/markodenic/web-development-resources/pull/650#issuecomment-2708823155) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❌ Closed PR [#650](https://github.com/markodenic/web-development-resources/pull/650) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
