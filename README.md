@@ -43,9 +43,9 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2823132654) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#657](https://github.com/markodenic/web-development-resources/issues/657#issuecomment-2792617271) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🗣 Commented on [#652](https://github.com/markodenic/web-development-resources/pull/652#issuecomment-2708823874) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#659](https://github.com/markodenic/web-development-resources/pull/659) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2823132654) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#657](https://github.com/markodenic/web-development-resources/issues/657#issuecomment-2792617271) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 4. ❌ Closed PR [#652](https://github.com/markodenic/web-development-resources/pull/652) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 5. 🎉 Merged PR [#651](https://github.com/markodenic/web-development-resources/pull/651) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
