@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#475](https://github.com/markodenic/awesome-tech-blogs/pull/475) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2833648194) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#658](https://github.com/markodenic/web-development-resources/pull/658) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2829925603) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🎉 Merged PR [#659](https://github.com/markodenic/web-development-resources/pull/659) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. ❗ Opened issue [#4](https://github.com/WebdevShefali/Web-Dev-Resources/issues/4) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+2. 🎉 Merged PR [#475](https://github.com/markodenic/awesome-tech-blogs/pull/475) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2833648194) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❌ Closed PR [#658](https://github.com/markodenic/web-development-resources/pull/658) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2829925603) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
