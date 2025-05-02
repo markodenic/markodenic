@@ -43,10 +43,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/WebdevShefali/Web-Dev-Resources/issues/4#issuecomment-2846608720) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
-2. 💪 Opened PR [#5](https://github.com/WebdevShefali/Web-Dev-Resources/pull/5) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
-3. ❗ Opened issue [#4](https://github.com/WebdevShefali/Web-Dev-Resources/issues/4) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
-4. 🎉 Merged PR [#475](https://github.com/markodenic/awesome-tech-blogs/pull/475) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#658](https://github.com/markodenic/web-development-resources/pull/658#issuecomment-2833648194) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🗣 Commented on [#5](https://github.com/WebdevShefali/Web-Dev-Resources/pull/5#issuecomment-2846825183) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+2. 🗣 Commented on [#4](https://github.com/WebdevShefali/Web-Dev-Resources/issues/4#issuecomment-2846608720) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+3. 💪 Opened PR [#5](https://github.com/WebdevShefali/Web-Dev-Resources/pull/5) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+4. ❗ Opened issue [#4](https://github.com/WebdevShefali/Web-Dev-Resources/issues/4) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+5. 🎉 Merged PR [#475](https://github.com/markodenic/awesome-tech-blogs/pull/475) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
