@@ -42,6 +42,7 @@ I'm a Web Developer, helping others become one too.
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DEMO: Clio Websites URL Shortener](https://www.youtube.com/watch?v=F_JDmwrbqVY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ### Latest Github activities
