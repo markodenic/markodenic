@@ -48,10 +48,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#662](https://github.com/markodenic/web-development-resources/issues/662#issuecomment-2851060747) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#662](https://github.com/markodenic/web-development-resources/issues/662#issuecomment-2849363796) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🔒 Closed issue [#662](https://github.com/markodenic/web-development-resources/issues/662) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🔒 Closed issue [#661](https://github.com/markodenic/web-development-resources/issues/661) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#661](https://github.com/markodenic/web-development-resources/issues/661#issuecomment-2849362618) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#1](https://github.com/markodenic/links/pull/1) in [markodenic/links](https://github.com/markodenic/links)
+2. 🗣 Commented on [#662](https://github.com/markodenic/web-development-resources/issues/662#issuecomment-2851060747) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#662](https://github.com/markodenic/web-development-resources/issues/662#issuecomment-2849363796) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🔒 Closed issue [#662](https://github.com/markodenic/web-development-resources/issues/662) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🔒 Closed issue [#661](https://github.com/markodenic/web-development-resources/issues/661) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
