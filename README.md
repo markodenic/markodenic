@@ -7,6 +7,7 @@
 
 I'm a Web Developer, helping others become one too.
 
+# Subscribe to my [Newsletter](https://techwithmarko.com).
 
 <!-- Socials -->
 <a href="https://twitter.com/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Marko Denic Twitter profile" width="40"/></a>
