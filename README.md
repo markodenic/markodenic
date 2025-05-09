@@ -49,10 +49,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#769](https://github.com/marcelscruz/dev-resources/pull/769) in [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)
-2. 🗣 Commented on [#464](https://github.com/markodenic/awesome-tech-blogs/issues/464#issuecomment-2862160276) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 🔒 Closed issue [#464](https://github.com/markodenic/awesome-tech-blogs/issues/464) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🗣 Commented on [#463](https://github.com/markodenic/awesome-tech-blogs/issues/463#issuecomment-2862155580) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#445](https://github.com/markodenic/awesome-tech-blogs/pull/445#issuecomment-2862132456) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🎉 Merged PR [#477](https://github.com/markodenic/awesome-tech-blogs/pull/477) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 💪 Opened PR [#769](https://github.com/marcelscruz/dev-resources/pull/769) in [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)
+3. 🗣 Commented on [#464](https://github.com/markodenic/awesome-tech-blogs/issues/464#issuecomment-2862160276) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🔒 Closed issue [#464](https://github.com/markodenic/awesome-tech-blogs/issues/464) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🗣 Commented on [#463](https://github.com/markodenic/awesome-tech-blogs/issues/463#issuecomment-2862155580) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
