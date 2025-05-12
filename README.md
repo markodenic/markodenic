@@ -49,10 +49,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#38](https://github.com/markodenic/public-apis/issues/38) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-2. 🔒 Closed issue [#3](https://github.com/markodenic/links/issues/3) in [markodenic/links](https://github.com/markodenic/links)
-3. 🗣 Commented on [#3](https://github.com/markodenic/links/issues/3#issuecomment-2866896696) in [markodenic/links](https://github.com/markodenic/links)
-4. 🎉 Merged PR [#4](https://github.com/markodenic/links/pull/4) in [markodenic/links](https://github.com/markodenic/links)
-5. 🗣 Commented on [#4](https://github.com/markodenic/links/pull/4#issuecomment-2866892116) in [markodenic/links](https://github.com/markodenic/links)
+1. 🗣 Commented on [#6](https://github.com/markodenic/links/pull/6#issuecomment-2872986185) in [markodenic/links](https://github.com/markodenic/links)
+2. ❌ Closed PR [#6](https://github.com/markodenic/links/pull/6) in [markodenic/links](https://github.com/markodenic/links)
+3. 🗣 Commented on [#5](https://github.com/markodenic/links/issues/5#issuecomment-2872978381) in [markodenic/links](https://github.com/markodenic/links)
+4. 🗣 Commented on [#7](https://github.com/markodenic/links/pull/7#issuecomment-2872974300) in [markodenic/links](https://github.com/markodenic/links)
+5. ❌ Closed PR [#7](https://github.com/markodenic/links/pull/7) in [markodenic/links](https://github.com/markodenic/links)
 <!--END_SECTION:activity-->
 
