@@ -49,10 +49,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/WebdevShefali/Web-Dev-Resources/issues/7) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
-2. 🗣 Commented on [#657](https://github.com/markodenic/web-development-resources/issues/657#issuecomment-2876279934) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🔒 Closed issue [#657](https://github.com/markodenic/web-development-resources/issues/657) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🎉 Merged PR [#663](https://github.com/markodenic/web-development-resources/pull/663) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#6](https://github.com/markodenic/links/pull/6#issuecomment-2872986185) in [markodenic/links](https://github.com/markodenic/links)
+1. 💪 Opened PR [#8](https://github.com/WebdevShefali/Web-Dev-Resources/pull/8) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+2. ❗ Opened issue [#7](https://github.com/WebdevShefali/Web-Dev-Resources/issues/7) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
+3. 🗣 Commented on [#657](https://github.com/markodenic/web-development-resources/issues/657#issuecomment-2876279934) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🔒 Closed issue [#657](https://github.com/markodenic/web-development-resources/issues/657) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🎉 Merged PR [#663](https://github.com/markodenic/web-development-resources/pull/663) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
