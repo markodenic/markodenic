@@ -7,10 +7,10 @@
 
 I'm a Web Developer, helping others become one too.
 
-# Subscribe to my [Newsletter](https://techwithmarko.com).
+# Subscribe to my [Newsletter](https://markodenic.tech).
 
 <!-- Socials -->
-<a href="https://twitter.com/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Marko Denic Twitter profile" width="40"/></a>
+<a href="https://twitter.com/denicmarko"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="X" alt="Marko Denic X profile" width="40"/></a>
 &ensp;<a href="https://www.youtube.com/channel/UCRgyPAKycnp_kkpny_uZBcQ"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" title="YouTube" alt="Marko Denic YouTube profile" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/denicmarko/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Marko Denic Linkedin account" width="30"/></a>
 &ensp;<a href="https://www.instagram.com/denicmarko_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Marko Denic's Instagram profile" width="30" /></a>
@@ -31,7 +31,7 @@ I'm a Web Developer, helping others become one too.
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/denicmarko_/)
 
 ### 💻 Tools
-[CSS Button Generator](https://markodenic.com/tools/buttons-generator/) - [Glassmorphism Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) - [Tech Acronyms (Initialisms) Explorer](https://markodenic.com/tools/tech-acronyms-explorer/) - [Markdown Preview](https://freecodetools.org/markdown-preview/) - [Word Counter](https://freecodetools.org/word-counter/) - [Article Banner PRO](https://articlebannerpro.com/)
+[CSS Button Generator](https://markodenic.com/tools/buttons-generator/) - [Glassmorphism Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) - [Tech Acronyms (Initialisms) Explorer](https://markodenic.com/tools/tech-acronyms-explorer/) - [Markdown Preview](https://freecodetools.org/markdown-preview/) - [Word Counter](https://freecodetools.org/word-counter/) - [Article Banner](https://articlebanner.com/)
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
