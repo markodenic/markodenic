@@ -44,6 +44,7 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Videos on YouTube
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [200+ resources for web developers. Open source!](https://www.youtube.com/watch?v=bDUrWz6ws9U)
 - [DEMO: Clio Websites URL Shortener](https://www.youtube.com/watch?v=F_JDmwrbqVY)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
