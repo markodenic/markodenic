@@ -42,6 +42,10 @@ I'm a Web Developer, helping others become one too.
 - [Best Websites To Get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest newsletter issues
+<!-- NEWSLETTER-ISSUES-LIST:START -->
+<!-- NEWSLETTER-ISSUES-LIST:END -->
+
 ### Latest Videos on YouTube
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [200+ resources for web developers. Open source!](https://www.youtube.com/watch?v=bDUrWz6ws9U)
