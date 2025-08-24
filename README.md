@@ -9,7 +9,7 @@ I'm a Web Developer, helping others become one too.
 
 # Get my free eBook [HTML eBook](https://markodenic.tech/html-ebook).
 
-## ⚡ Github Stats
+### GitHub Stats
 
 ![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=markoDenic&theme=dark)
 
