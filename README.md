@@ -37,6 +37,7 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Showcase Blog Posts Automatically on GitHub Profile](https://markodenic.tech/showcase-blog-posts-automatically-on-github-profile/)
 - [CSS Pulse Animation](https://markodenic.tech/css-pulse-animation/)
 - [9 Most Powerful CSS One-Liners](https://markodenic.tech/9-most-powerful-css-one-liners/)
 - [From zero to Web Developer](https://markodenic.tech/from-zero-to-web-developer/)
