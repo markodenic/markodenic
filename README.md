@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#669](https://github.com/markodenic/web-development-resources/pull/669#issuecomment-3089815988) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. ❌ Closed PR [#669](https://github.com/markodenic/web-development-resources/pull/669) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#670](https://github.com/markodenic/web-development-resources/pull/670) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🔒 Closed issue [#665](https://github.com/markodenic/web-development-resources/issues/665) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 💪 Opened PR [#21](undefined) in [jackbridger/developer-newsletters](https://github.com/jackbridger/developer-newsletters)
+2. 💪 Opened PR [#1202](undefined) in [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+3. 💪 Opened PR [#11](undefined) in [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+4. 💪 Opened PR [#294](undefined) in [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 5. 🔒 Closed issue [#667](https://github.com/markodenic/web-development-resources/issues/667) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
