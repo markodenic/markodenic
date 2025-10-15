@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/techterms/techterms/pull/126#issuecomment-3396944076) in [techterms/techterms](https://github.com/techterms/techterms)
-2. 💪 Opened PR [#126](undefined) in [techterms/techterms](https://github.com/techterms/techterms)
-3. 🗣 Commented on [#485](https://github.com/markodenic/awesome-tech-blogs/pull/485#issuecomment-3393012142) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. ❌ Closed PR [#485](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#27628](https://github.com/is-a-dev/register/pull/27628#issuecomment-3381792812) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1.  Assigned issue [#687](https://github.com/markodenic/web-development-resources/issues/687) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🗣 Commented on [#126](https://github.com/techterms/techterms/pull/126#issuecomment-3396944076) in [techterms/techterms](https://github.com/techterms/techterms)
+3. 💪 Opened PR [#126](undefined) in [techterms/techterms](https://github.com/techterms/techterms)
+4. 🗣 Commented on [#485](https://github.com/markodenic/awesome-tech-blogs/pull/485#issuecomment-3393012142) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. ❌ Closed PR [#485](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
