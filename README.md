@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#689](undefined) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🔒 Closed issue [#687](https://github.com/markodenic/web-development-resources/issues/687) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 💪 Opened PR [#688](undefined) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4.  Assigned issue [#687](https://github.com/markodenic/web-development-resources/issues/687) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#126](https://github.com/techterms/techterms/pull/126#issuecomment-3396944076) in [techterms/techterms](https://github.com/techterms/techterms)
+1.  Assigned issue [#692](https://github.com/markodenic/web-development-resources/issues/692) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. ❗ Opened issue [#692](https://github.com/markodenic/web-development-resources/issues/692) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3.  Assigned issue [#691](https://github.com/markodenic/web-development-resources/issues/691) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❗ Opened issue [#691](https://github.com/markodenic/web-development-resources/issues/691) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 💪 Opened PR [#689](undefined) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
