@@ -37,11 +37,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [GitHub Repositories to Improve Your Programming Skills](https://markodenic.tech/github-repositories-to-improve-your-programming-skills/)
 - [CSS Generators](https://markodenic.tech/css-generators/)
 - [Use `console.log&lpar;&rpar;` like a pro](https://markodenic.tech/use-console-log-like-a-pro/)
 - [Git Cheat Sheet](https://markodenic.tech/git-cheat-sheet/)
 - [Make Your First Open Source Contribution](https://markodenic.tech/make-your-first-open-source-contribution/)
-- [9 Most Useful JavaScript Tips and Tricks](https://markodenic.tech/9-most-useful-javascript-tips-and-tricks/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
