@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#484](https://github.com/markodenic/awesome-tech-blogs/issues/484#issuecomment-3418563798) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. 🔒 Closed issue [#463](https://github.com/markodenic/awesome-tech-blogs/issues/463) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 💪 Opened PR [#489](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🔒 Closed issue [#487](https://github.com/markodenic/awesome-tech-blogs/issues/487) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 💪 Opened PR [#488](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1.  Assigned issue [#490](https://github.com/markodenic/awesome-tech-blogs/issues/490) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. ❗ Opened issue [#490](https://github.com/markodenic/awesome-tech-blogs/issues/490) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 🗣 Commented on [#484](https://github.com/markodenic/awesome-tech-blogs/issues/484#issuecomment-3418563798) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 🔒 Closed issue [#463](https://github.com/markodenic/awesome-tech-blogs/issues/463) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 💪 Opened PR [#489](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
