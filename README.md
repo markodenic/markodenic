@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1.  Assigned issue [#490](https://github.com/markodenic/awesome-tech-blogs/issues/490) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. ❗ Opened issue [#490](https://github.com/markodenic/awesome-tech-blogs/issues/490) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 🗣 Commented on [#484](https://github.com/markodenic/awesome-tech-blogs/issues/484#issuecomment-3418563798) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🔒 Closed issue [#463](https://github.com/markodenic/awesome-tech-blogs/issues/463) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 💪 Opened PR [#489](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1.  Assigned issue [#10](https://github.com/markodenic/awesome-html-css-js-tips/issues/10) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+2. ❗ Opened issue [#10](https://github.com/markodenic/awesome-html-css-js-tips/issues/10) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+3.  Assigned issue [#10](https://github.com/markodenic/links/issues/10) in [markodenic/links](https://github.com/markodenic/links)
+4.  Assigned issue [#484](https://github.com/markodenic/awesome-tech-blogs/issues/484) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5.  Assigned issue [#492](https://github.com/markodenic/awesome-tech-blogs/issues/492) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
