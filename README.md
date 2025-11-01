@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1.  Assigned issue [#10](https://github.com/markodenic/awesome-html-css-js-tips/issues/10) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
-2. ❗ Opened issue [#10](https://github.com/markodenic/awesome-html-css-js-tips/issues/10) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
-3.  Assigned issue [#10](https://github.com/markodenic/links/issues/10) in [markodenic/links](https://github.com/markodenic/links)
-4.  Assigned issue [#484](https://github.com/markodenic/awesome-tech-blogs/issues/484) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5.  Assigned issue [#492](https://github.com/markodenic/awesome-tech-blogs/issues/492) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ❗ Opened issue [#7](https://github.com/markodenic/markodenic/issues/7) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+2.  Assigned issue [#7](https://github.com/markodenic/markodenic/issues/7) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+3. ❗ Opened issue [#6](https://github.com/markodenic/markodenic/issues/6) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+4.  Assigned issue [#6](https://github.com/markodenic/markodenic/issues/6) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+5. ❗ Opened issue [#5](https://github.com/markodenic/markodenic/issues/5) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
 <!--END_SECTION:activity-->
 
