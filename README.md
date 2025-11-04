@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1508](undefined) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-2. 🗣 Commented on [#695](https://github.com/markodenic/web-development-resources/issues/695#issuecomment-3478093829) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🔒 Closed issue [#695](https://github.com/markodenic/web-development-resources/issues/695) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 💪 Opened PR [#696](undefined) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❗ Opened issue [#7](https://github.com/markodenic/markodenic/issues/7) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+1. 🗣 Commented on [#1508](https://github.com/bradtraversy/design-resources-for-developers/pull/1508#issuecomment-3485987438) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+2. 💪 Opened PR [#1508](undefined) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+3. 🗣 Commented on [#695](https://github.com/markodenic/web-development-resources/issues/695#issuecomment-3478093829) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🔒 Closed issue [#695](https://github.com/markodenic/web-development-resources/issues/695) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 💪 Opened PR [#696](undefined) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
