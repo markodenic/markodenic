@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1509](https://github.com/bradtraversy/design-resources-for-developers/issues/1509) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-2. 🔒 Closed issue [#492](https://github.com/markodenic/awesome-tech-blogs/issues/492) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 💪 Opened PR [#493](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🗣 Commented on [#1508](https://github.com/bradtraversy/design-resources-for-developers/pull/1508#issuecomment-3485987438) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-5. 💪 Opened PR [#1508](undefined) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+1.  Assigned issue [#494](https://github.com/markodenic/awesome-tech-blogs/issues/494) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. ❗ Opened issue [#494](https://github.com/markodenic/awesome-tech-blogs/issues/494) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. ❗ Opened issue [#1509](https://github.com/bradtraversy/design-resources-for-developers/issues/1509) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+4. 🔒 Closed issue [#492](https://github.com/markodenic/awesome-tech-blogs/issues/492) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 💪 Opened PR [#493](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
