@@ -1,4 +1,4 @@
-![Repository Banner](banner.png)
+[![Repository Banner](banner.png)](https://markodenic.tech)
 
 [![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
 [![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
