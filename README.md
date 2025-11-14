@@ -37,11 +37,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Best Websites to Get HTML/CSS Templates](https://markodenic.tech/best-websites-to-get-html-css-templates/)
 - [Technical interview resources](https://markodenic.tech/technical-interview-resources/)
 - [I Took Pong Wars and made it Playable](https://markodenic.tech/i-took-pong-wars-and-made-it-playable/)
 - [Free certifications for developers](https://markodenic.tech/free-certifications-for-developers/)
 - [GitHub Repositories to Improve Your Programming Skills](https://markodenic.tech/github-repositories-to-improve-your-programming-skills/)
-- [CSS Generators](https://markodenic.tech/css-generators/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
