@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/markodenic/markodenic/issues/7) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
-2. 💪 Opened PR [#10](undefined) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
-3. 🔒 Closed issue [#8](https://github.com/markodenic/markodenic/issues/8) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
-4. 💪 Opened PR [#9](undefined) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
-5. ❗ Opened issue [#8](https://github.com/markodenic/markodenic/issues/8) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+1. 🔒 Closed issue [#10](https://github.com/markodenic/links/issues/10) in [markodenic/links](https://github.com/markodenic/links)
+2. 💪 Opened PR [#11](undefined) in [markodenic/links](https://github.com/markodenic/links)
+3. 🔒 Closed issue [#7](https://github.com/markodenic/markodenic/issues/7) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+4. 💪 Opened PR [#10](undefined) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+5. 🔒 Closed issue [#8](https://github.com/markodenic/markodenic/issues/8) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
 <!--END_SECTION:activity-->
 
