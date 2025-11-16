@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/markodenic/links/issues/10) in [markodenic/links](https://github.com/markodenic/links)
-2. 💪 Opened PR [#11](undefined) in [markodenic/links](https://github.com/markodenic/links)
-3. 🔒 Closed issue [#7](https://github.com/markodenic/markodenic/issues/7) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
-4. 💪 Opened PR [#10](undefined) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
-5. 🔒 Closed issue [#8](https://github.com/markodenic/markodenic/issues/8) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+1. 🔒 Closed issue [#10](https://github.com/markodenic/awesome-html-css-js-tips/issues/10) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+2. 💪 Opened PR [#11](undefined) in [markodenic/awesome-html-css-js-tips](https://github.com/markodenic/awesome-html-css-js-tips)
+3. 🔒 Closed issue [#494](https://github.com/markodenic/awesome-tech-blogs/issues/494) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. 💪 Opened PR [#495](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🔒 Closed issue [#10](https://github.com/markodenic/links/issues/10) in [markodenic/links](https://github.com/markodenic/links)
 <!--END_SECTION:activity-->
 
