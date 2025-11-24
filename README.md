@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to CSS if Statements and Conditional Logic](https://markodenic.com/introduction-to-css-if-statements-and-conditional-logic/)
 - [CSS Pulse Animation](https://markodenic.com/css-pulse-animation/)
 - [Install Mistral AI on Linux](https://markodenic.com/install-mistral-ai-on-linux/)
 - [Install Deepseek on Linux](https://markodenic.com/install-deepseek-on-linux/)
 - [Git Cheat Sheet](https://markodenic.com/git-cheat-sheet/)
-- [Best Websites To Get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest newsletter issues
