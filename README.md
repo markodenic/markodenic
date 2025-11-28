@@ -37,11 +37,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Let’s build QR Code Generator in Under 10 Minutes](https://markodenic.tech/lets-build-qr-code-generator-in-under-10-minutes/)
 - [Interactive learning tools](https://markodenic.tech/interactive-learning-tools/)
 - [Best Websites to Get HTML/CSS Templates](https://markodenic.tech/best-websites-to-get-html-css-templates/)
 - [Technical interview resources](https://markodenic.tech/technical-interview-resources/)
 - [I Took Pong Wars and made it Playable](https://markodenic.tech/i-took-pong-wars-and-made-it-playable/)
-- [Free certifications for developers](https://markodenic.tech/free-certifications-for-developers/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
