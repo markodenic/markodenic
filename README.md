@@ -52,10 +52,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#705](https://github.com/markodenic/web-development-resources/issues/705) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 💪 Opened PR [#501](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-3. 🔒 Closed issue [#499](https://github.com/markodenic/awesome-tech-blogs/issues/499) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🗣 Commented on [#499](https://github.com/markodenic/awesome-tech-blogs/issues/499#issuecomment-3575844509) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 🗣 Commented on [#500](https://github.com/markodenic/awesome-tech-blogs/pull/500#issuecomment-3575841600) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ❗ Opened issue [#1](https://github.com/markodenic/qr-code-generator/issues/1) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
+2.  Assigned issue [#1](https://github.com/markodenic/qr-code-generator/issues/1) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
+3. 🔒 Closed issue [#705](https://github.com/markodenic/web-development-resources/issues/705) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 💪 Opened PR [#501](undefined) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. 🔒 Closed issue [#499](https://github.com/markodenic/awesome-tech-blogs/issues/499) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
