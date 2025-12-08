@@ -40,6 +40,10 @@ I'm a Web Developer, helping others become one too.
 - [Boost website speed with WebP images](https://markodenic.com/snippets/html/boost-website-speed-with-webp-images/)
 <!-- HTML-SNIPPETS-LIST:END -->
 
+### Latest CSS snippets
+<!-- CSS-SNIPPETS-LIST:START -->
+<!-- CSS-SNIPPETS-LIST:END -->
+
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
 - [CSS Now Has if&lpar;&rpar; Statements. Here’s How They Work](https://markodenic.tech/css-now-has-if-statements-heres-how-they-work/)
