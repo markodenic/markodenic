@@ -42,6 +42,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest CSS snippets
 <!-- CSS-SNIPPETS-LIST:START -->
+- [Mix Blend Mode with Video Background](https://markodenic.com/snippets/css/mix-blend-mode-with-video-background/)
+- [Marquee with Pause on Hover](https://markodenic.com/snippets/css/marquee-with-pause-on-hover/)
+- [Animated Border](https://markodenic.com/snippets/css/animated-border/)
+- [Masonry Layout](https://markodenic.com/snippets/css/masonry-layout/)
+- [Center a Div](https://markodenic.com/snippets/css/center-a-div/)
 <!-- CSS-SNIPPETS-LIST:END -->
 
 ### Latest newsletter issues
