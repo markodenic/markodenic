@@ -56,10 +56,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
-2. 🔒 Closed issue [#2](https://github.com/markodenic/qr-code-generator/issues/2) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
-3. 💪 Opened PR [#3](undefined) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
-4. ❗ Opened issue [#2](https://github.com/markodenic/qr-code-generator/issues/2) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
-5.  Assigned issue [#2](https://github.com/markodenic/qr-code-generator/issues/2) in [markodenic/qr-code-generator](https://github.com/markodenic/qr-code-generator)
+1. 🔒 Closed issue [#3](https://github.com/markodenic/markodenic/issues/3) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+2. ❌ Merged PR [#11](undefined) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+3. 💪 Opened PR [#11](undefined) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+4. 🔒 Closed issue [#57](https://github.com/markodenic/public-apis/issues/57) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+5. 🔒 Closed issue [#55](https://github.com/markodenic/public-apis/issues/55) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
 <!--END_SECTION:activity-->
 
