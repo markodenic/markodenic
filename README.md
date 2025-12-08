@@ -35,6 +35,10 @@ I'm a Web Developer, helping others become one too.
 - [Install Deepseek on Linux](https://markodenic.com/install-deepseek-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest HTML snippets
+<!-- HTML-SNIPPETS-LIST:START -->
+<!-- HTML-SNIPPETS-LIST:END -->
+
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
 - [CSS Now Has if&lpar;&rpar; Statements. Here’s How They Work](https://markodenic.tech/css-now-has-if-statements-heres-how-they-work/)
