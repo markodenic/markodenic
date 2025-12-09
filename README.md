@@ -11,7 +11,7 @@ I'm a Web Developer, helping others become one too.
 
 ### GitHub Stats
 
-![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=markoDenic&theme=dark)
+![Marko Denic's Github Stats](https://github-readme-stats-tau-ten-45.vercel.app/api?username=markoDenic&theme=dark)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/denicmarko/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://x.com/denicmarko) 
