@@ -53,6 +53,10 @@ I'm a Web Developer, helping others become one too.
 <!-- JAVASCRIPT-SNIPPETS-LIST:START -->
 <!-- JAVASCRIPT-SNIPPETS-LIST:END -->
 
+### Latest WordPress snippets
+<!-- WORDPRESS-SNIPPETS-LIST:START -->
+<!-- WORDPRESS-SNIPPETS-LIST:END -->
+
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
 - [CSS Now Has if&lpar;&rpar; Statements. Here’s How They Work](https://markodenic.tech/css-now-has-if-statements-heres-how-they-work/)
