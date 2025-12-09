@@ -56,6 +56,8 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest WordPress snippets
 <!-- WORDPRESS-SNIPPETS-LIST:START -->
+- [Hide Admin Bar](https://markodenic.com/snippets/wordpress/hide-admin-bar/)
+- [Disable Gutenberg and keep the classic editor](https://markodenic.com/snippets/wordpress/disable-gutenberg-and-keep-the-classic-editor/)
 <!-- WORDPRESS-SNIPPETS-LIST:END -->
 
 ### Latest newsletter issues
