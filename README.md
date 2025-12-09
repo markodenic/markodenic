@@ -51,6 +51,7 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest JavaScript snippets
 <!-- JAVASCRIPT-SNIPPETS-LIST:START -->
+- [Trim String](https://markodenic.com/snippets/javascript/trim-string/)
 <!-- JAVASCRIPT-SNIPPETS-LIST:END -->
 
 ### Latest WordPress snippets
