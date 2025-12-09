@@ -49,6 +49,10 @@ I'm a Web Developer, helping others become one too.
 - [Center a Div](https://markodenic.com/snippets/css/center-a-div/)
 <!-- CSS-SNIPPETS-LIST:END -->
 
+### Latest JavaScript snippets
+<!-- JAVASCRIPT-SNIPPETS-LIST:START -->
+<!-- JAVASCRIPT-SNIPPETS-LIST:END -->
+
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
 - [CSS Now Has if&lpar;&rpar; Statements. Here’s How They Work](https://markodenic.tech/css-now-has-if-statements-heres-how-they-work/)
