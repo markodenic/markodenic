@@ -62,11 +62,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [The complete guide to HTML input types. Hint: there are more than you know](https://markodenic.tech/the-complete-guide-to-html-input-types-hint-there-are-more-than-you-know/)
 - [CSS Now Has if&lpar;&rpar; Statements. Here’s How They Work](https://markodenic.tech/css-now-has-if-statements-heres-how-they-work/)
 - [Let’s build QR Code Generator in Under 10 Minutes](https://markodenic.tech/lets-build-qr-code-generator-in-under-10-minutes/)
 - [Interactive learning tools](https://markodenic.tech/interactive-learning-tools/)
 - [Best Websites to Get HTML/CSS Templates](https://markodenic.tech/best-websites-to-get-html-css-templates/)
-- [Technical interview resources](https://markodenic.tech/technical-interview-resources/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
