@@ -62,11 +62,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [What Actually Matters for Developers This Year](https://markodenic.tech/what-actually-matters-for-developers-this-year/)
 - [CSS is the New Photoshop](https://markodenic.tech/css-is-the-new-photoshop/)
 - [How to Add a Scroll Progress Bar in 5 Minutes &lpar;No Libraries&rpar;](https://markodenic.tech/how-to-add-a-scroll-progress-bar-in-5-minutes-no-libraries/)
 - [The complete guide to HTML input types. Hint: there are more than you know](https://markodenic.tech/the-complete-guide-to-html-input-types-hint-there-are-more-than-you-know/)
 - [CSS Now Has if&lpar;&rpar; Statements. Here’s How They Work](https://markodenic.tech/css-now-has-if-statements-heres-how-they-work/)
-- [Let’s build QR Code Generator in Under 10 Minutes](https://markodenic.tech/lets-build-qr-code-generator-in-under-10-minutes/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
