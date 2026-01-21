@@ -37,6 +37,7 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest HTML snippets
 <!-- HTML-SNIPPETS-LIST:START -->
+- [Multiple Details Tags With Name Attribute](https://markodenic.com/snippets/html/multiple-details-tags-with-name-attribute/)
 - [Boost website speed with WebP images](https://markodenic.com/snippets/html/boost-website-speed-with-webp-images/)
 <!-- HTML-SNIPPETS-LIST:END -->
 
