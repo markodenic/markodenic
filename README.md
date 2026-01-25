@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#718](https://github.com/markodenic/web-development-resources/pull/718) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🔒 Closed issue [#717](https://github.com/markodenic/web-development-resources/issues/717) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 💪 Opened PR [#718](https://github.com/markodenic/web-development-resources/pull/718) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ℹ️ Assigned issue [#717](https://github.com/markodenic/web-development-resources/issues/717) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❗ Opened issue [#717](https://github.com/markodenic/web-development-resources/issues/717) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#720](https://github.com/markodenic/web-development-resources/pull/720) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🔒 Closed issue [#719](https://github.com/markodenic/web-development-resources/issues/719) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 💪 Opened PR [#720](https://github.com/markodenic/web-development-resources/pull/720) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ❗ Opened issue [#719](https://github.com/markodenic/web-development-resources/issues/719) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ℹ️ Assigned issue [#719](https://github.com/markodenic/web-development-resources/issues/719) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
