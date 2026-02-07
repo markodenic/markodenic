@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [ES6 JavaScript](https://markodenic.tech/es6-javascript/)
 - [Worth Revisiting: The Most Useful Past Issues](https://markodenic.tech/worth-revisiting-the-most-useful-past-issues/)
 - [Tools I made for you](https://markodenic.tech/tools-i-made-for-you/)
 - [CSS `:has&lpar;&rpar;` Isn’t New, But Most Developers Still Aren’t Using It Well](https://markodenic.tech/css-has-isnt-new-but-most-developers-still-arent-using-it-well/)
 - [10 JavaScript array methods to simplify your code](https://markodenic.tech/10-javascript-array-methods-to-simplify-your-code/)
-- [What Actually Matters for Developers This Year](https://markodenic.tech/what-actually-matters-for-developers-this-year/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
