@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#725](https://github.com/markodenic/web-development-resources/pull/725) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 💪 Opened PR [#725](https://github.com/markodenic/web-development-resources/pull/725) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 🎉 Merged PR [#724](https://github.com/markodenic/web-development-resources/pull/724) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🔒 Closed issue [#723](https://github.com/markodenic/web-development-resources/issues/723) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 💪 Opened PR [#724](https://github.com/markodenic/web-development-resources/pull/724) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. ❌ Closed PR [#726](https://github.com/markodenic/web-development-resources/pull/726) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🗣 Commented on [#726](https://github.com/markodenic/web-development-resources/pull/726#issuecomment-3896801498) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#727](https://github.com/markodenic/web-development-resources/issues/727#issuecomment-3896780710) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🎉 Merged PR [#725](https://github.com/markodenic/web-development-resources/pull/725) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 💪 Opened PR [#725](https://github.com/markodenic/web-development-resources/pull/725) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
