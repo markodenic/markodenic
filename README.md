@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#733](https://github.com/markodenic/web-development-resources/pull/733) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🗣 Commented on [#4060](https://github.com/ripienaar/free-for-dev/pull/4060#issuecomment-3945129290) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-3. ❌ Closed PR [#732](https://github.com/markodenic/web-development-resources/pull/732) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❌ Closed PR [#731](https://github.com/markodenic/web-development-resources/pull/731) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❌ Closed PR [#730](https://github.com/markodenic/web-development-resources/pull/730) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🔒 Closed issue [#734](https://github.com/markodenic/web-development-resources/issues/734) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. ❌ Closed PR [#733](https://github.com/markodenic/web-development-resources/pull/733) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🗣 Commented on [#4060](https://github.com/ripienaar/free-for-dev/pull/4060#issuecomment-3945129290) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. ❌ Closed PR [#732](https://github.com/markodenic/web-development-resources/pull/732) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❌ Closed PR [#731](https://github.com/markodenic/web-development-resources/pull/731) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
