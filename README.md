@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#748](https://github.com/markodenic/web-development-resources/pull/748) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 🔒 Closed issue [#745](https://github.com/markodenic/web-development-resources/issues/745) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. 💪 Opened PR [#748](https://github.com/markodenic/web-development-resources/pull/748) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ℹ️ Assigned issue [#745](https://github.com/markodenic/web-development-resources/issues/745) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ❌ Closed PR [#747](https://github.com/markodenic/web-development-resources/pull/747) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. ❌ Closed PR [#749](https://github.com/markodenic/web-development-resources/pull/749) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🎉 Merged PR [#748](https://github.com/markodenic/web-development-resources/pull/748) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🔒 Closed issue [#745](https://github.com/markodenic/web-development-resources/issues/745) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 💪 Opened PR [#748](https://github.com/markodenic/web-development-resources/pull/748) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ℹ️ Assigned issue [#745](https://github.com/markodenic/web-development-resources/issues/745) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
