@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Zero-JS tooltips and menus](https://markodenic.tech/zero-js-tooltips-and-menus/)
 - [A better way to handle Aspect Ratios](https://markodenic.tech/a-better-way-to-handle-aspect-ratios/)
 - [Stop using margin-left and padding-right](https://markodenic.tech/stop-using-margin-left-and-padding-right/)
 - [Stop duplicating your CSS for Dark Mode 🌓](https://markodenic.tech/stop-duplicating-your-css-for-dark-mode/)
 - [Stop writing click handlers for UI](https://markodenic.tech/stop-writing-click-handlers-for-ui/)
-- [ES6 JavaScript](https://markodenic.tech/es6-javascript/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
