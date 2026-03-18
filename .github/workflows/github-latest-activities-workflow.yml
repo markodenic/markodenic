@@ -2,9 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 0 * * *' # Runs once a day
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
