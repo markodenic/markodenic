@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs once a day
+    - cron: '0 0 * * 1' # Runs every Monday
   workflow_dispatch:
 jobs:
   build:
