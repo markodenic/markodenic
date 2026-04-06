@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#542](https://github.com/markodenic/awesome-tech-blogs/pull/542) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. ❌ Closed PR [#755](https://github.com/markodenic/web-development-resources/pull/755) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ❌ Closed PR [#754](https://github.com/markodenic/web-development-resources/pull/754) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 🔒 Closed issue [#752](https://github.com/markodenic/web-development-resources/issues/752) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. 🗣 Commented on [#539](https://github.com/markodenic/awesome-tech-blogs/pull/539#issuecomment-4080625279) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🔒 Closed issue [#770](https://github.com/markodenic/web-development-resources/issues/770) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 🔒 Closed issue [#767](https://github.com/markodenic/web-development-resources/issues/767) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 🔒 Closed issue [#766](https://github.com/markodenic/web-development-resources/issues/766) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. 🔒 Closed issue [#768](https://github.com/markodenic/web-development-resources/issues/768) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 🔒 Closed issue [#765](https://github.com/markodenic/web-development-resources/issues/765) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--END_SECTION:activity-->
 
