@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Give your website a voice](https://markodenic.tech/give-your-website-a-voice/)
 - [Seamless CSS Marquees](https://markodenic.tech/seamless-css-marquees/)
 - [Fix “Full Height” on mobile](https://markodenic.tech/fix-full-height-on-mobile/)
 - [App-like page transitions &lpar;with zero JS&rpar;](https://markodenic.tech/app-like-page-transitions-with-zero-js/)
 - [Zero-JS tooltips and menus](https://markodenic.tech/zero-js-tooltips-and-menus/)
-- [A better way to handle Aspect Ratios](https://markodenic.tech/a-better-way-to-handle-aspect-ratios/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
