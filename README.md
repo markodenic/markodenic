@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Your page is freezing because of this. Here is how to fix it.](https://markodenic.tech/your-page-is-freezing-because-of-this-here-is-how-to-fix-it/)
 - [How to add a native share button with four lines of JavaScript.](https://markodenic.tech/how-to-add-a-native-share-button-with-four-lines-of-javascript/)
 - [Stop tweaking your user prompts. &lpar;Do this instead&rpar;](https://markodenic.tech/stop-tweaking-your-user-prompts-do-this-instead/)
 - [Make page loads feel instant. No framework.](https://markodenic.tech/make-page-loads-feel-instant-no-framework/)
 - [Make your app look globally professional. Instantly.](https://markodenic.tech/make-your-app-look-globally-professional-instantly/)
-- [The One-Liner That Sends Browser Notifications &lpar;No App Needed&rpar;](https://markodenic.tech/the-one-liner-that-sends-browser-notifications-no-app-needed/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
