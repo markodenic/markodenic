@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [How to stop a sticky header from covering your headings](https://markodenic.tech/how-to-stop-a-sticky-header-from-covering-your-headings/)
 - [How to stop a modal from scrolling the page behind it](https://markodenic.tech/how-to-stop-a-modal-from-scrolling-the-page-behind-it/)
 - [How to read and update URL query params without regex](https://markodenic.tech/how-to-read-and-update-url-query-params-without-regex/)
 - [How to stop a search box from firing 20 requests at once.](https://markodenic.tech/how-to-stop-a-search-box-from-firing-20-requests-at-once/)
 - [How to build a responsive grid without a single media query.](https://markodenic.tech/how-to-build-a-responsive-grid-without-a-single-media-query/)
-- [How to make three API calls finish in the time it takes to make one.](https://markodenic.tech/how-to-make-three-api-calls-finish-in-the-time-it-takes-to-make-one/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
