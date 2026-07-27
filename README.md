@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Grow Your X/Twitter Account Organically in 2026](https://markodenic.com/5-ways-to-grow-your-x-twitter-account-organically-in-2026/)
 - [The Reading List That Will Make You a Better Developer](https://markodenic.com/the-reading-list-that-will-make-you-a-better-developer/)
 - [How to Build and Deploy a Laravel App to Sevalla](https://markodenic.com/how-to-build-and-deploy-a-laravel-app-to-sevalla/)
 - [Introduction to CSS if Statements and Conditional Logic](https://markodenic.com/introduction-to-css-if-statements-and-conditional-logic/)
 - [CSS Pulse Animation](https://markodenic.com/css-pulse-animation/)
-- [Install Mistral AI on Linux](https://markodenic.com/install-mistral-ai-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
