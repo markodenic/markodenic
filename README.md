@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [How to build a swipeable carousel with just CSS](https://markodenic.tech/how-to-build-a-swipeable-carousel-with-just-css/)
 - [Turn any table sortable in 20 lines](https://markodenic.tech/turn-any-table-sortable-in-20-lines/)
 - [How to stop a sticky header from covering your headings](https://markodenic.tech/how-to-stop-a-sticky-header-from-covering-your-headings/)
 - [How to stop a modal from scrolling the page behind it](https://markodenic.tech/how-to-stop-a-modal-from-scrolling-the-page-behind-it/)
 - [How to read and update URL query params without regex](https://markodenic.tech/how-to-read-and-update-url-query-params-without-regex/)
-- [How to stop a search box from firing 20 requests at once.](https://markodenic.tech/how-to-stop-a-search-box-from-firing-20-requests-at-once/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
