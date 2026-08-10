@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Delete your auto-resize textarea script](https://markodenic.tech/delete-your-auto-resize-textarea-script/)
 - [Give your site the Cmd+K menu users expect](https://markodenic.tech/give-your-site-the-cmdk-menu-users-expect/)
 - [How to build a swipeable carousel with just CSS](https://markodenic.tech/how-to-build-a-swipeable-carousel-with-just-css/)
 - [Turn any table sortable in 20 lines](https://markodenic.tech/turn-any-table-sortable-in-20-lines/)
 - [How to stop a sticky header from covering your headings](https://markodenic.tech/how-to-stop-a-sticky-header-from-covering-your-headings/)
-- [How to stop a modal from scrolling the page behind it](https://markodenic.tech/how-to-stop-a-modal-from-scrolling-the-page-behind-it/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
