@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [An animated FAQ accordion in pure HTML](https://markodenic.tech/an-animated-faq-accordion-in-pure-html/)
+- [A real chart in 15 lines of SVG, no library](https://markodenic.tech/a-real-chart-in-15-lines-of-svg-no-library/)
 - [A before/after image slider in 2 lines of JavaScript](https://markodenic.tech/a-before-after-image-slider-in-2-lines-of-javascript/)
 - [Delete your auto-resize textarea script](https://markodenic.tech/delete-your-auto-resize-textarea-script/)
 - [Give your site the Cmd+K menu users expect](https://markodenic.tech/give-your-site-the-cmdk-menu-users-expect/)
-- [How to build a swipeable carousel with just CSS](https://markodenic.tech/how-to-build-a-swipeable-carousel-with-just-css/)
-- [Turn any table sortable in 20 lines](https://markodenic.tech/turn-any-table-sortable-in-20-lines/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
