@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Let AI agents use your site with 3 HTML attributes](https://markodenic.tech/let-ai-agents-use-your-site-with-3-html-attributes/)
 - [Skeleton loaders in pure CSS](https://markodenic.tech/skeleton-loaders-in-pure-css/)
 - [Skip the CSV export library: 12 lines of vanilla JS](https://markodenic.tech/export-any-table-to-csv-in-12-lines/)
 - [A tag input that feels like a real product](https://markodenic.tech/a-tag-input-that-feels-like-a-real-product/)
 - [A countdown that stays accurate in a background tab](https://markodenic.tech/a-countdown-that-stays-accurate-in-a-background-tab/)
-- [A sticky table header and first column in 6 lines of CSS](https://markodenic.tech/a-sticky-table-header-and-first-column-in-6-lines-of-css/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
