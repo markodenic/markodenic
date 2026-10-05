@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#552](https://github.com/markodenic/awesome-tech-blogs/pull/552) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. 🎉 Merged PR [#14](https://github.com/WebdevShefali/Web-Dev-Resources/pull/14) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
-3. ❌ Closed PR [#796](https://github.com/markodenic/web-development-resources/pull/796) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 💪 Opened PR [#14](https://github.com/WebdevShefali/Web-Dev-Resources/pull/14) in [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources)
-5. ❌ Closed PR [#788](https://github.com/markodenic/web-development-resources/pull/788) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. 🎉 Merged PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
+2. ❗ Opened issue [#49](https://github.com/plenaryapp/awesome-rss-feeds/issues/49) in [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds)
+3. 💪 Opened PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
+4. ❗ Opened issue [#42](https://github.com/impressivewebs/frontend-feeds/issues/42) in [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds)
+5. ❌ Closed PR [#558](https://github.com/markodenic/awesome-tech-blogs/pull/558) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
