@@ -43,11 +43,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest CSS snippets
 <!-- CSS-SNIPPETS-LIST:START -->
-- [Tailwind animate-pulse: What It Does + Plain CSS Version](https://markodenic.com/snippets/css/tailwind-animate-pulse/)
-- [CSS Glass Effect &lpar;Frosted Glass with backdrop-filter&rpar;](https://markodenic.com/snippets/css/glass-effect/)
+- [Tailwind animate-pulse: Pulse Animation Explained &lpar;+ Plain CSS&rpar;](https://markodenic.com/snippets/css/tailwind-animate-pulse/)
+- [CSS Glass Effect: Frosted Glass Background with backdrop-filter](https://markodenic.com/snippets/css/glass-effect/)
 - [Mix Blend Mode with Video Background](https://markodenic.com/snippets/css/mix-blend-mode-with-video-background/)
 - [Marquee with Pause on Hover](https://markodenic.com/snippets/css/marquee-with-pause-on-hover/)
-- [Animated Border](https://markodenic.com/snippets/css/animated-border/)
+- [Animated Gradient Border in CSS](https://markodenic.com/snippets/css/animated-border/)
 <!-- CSS-SNIPPETS-LIST:END -->
 
 ### Latest JavaScript snippets
