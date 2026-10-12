@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Comments in CSS: Syntax, Shortcuts and Examples](https://markodenic.com/comments-in-css/)
-- [Position Absolute vs Relative in CSS](https://markodenic.com/position-absolute-vs-relative/)
-- [I Added WebMCP to My Site. Here’s What It Took.](https://markodenic.com/webmcp/)
-- [Why Use WordPress in 2026? 9 Reasons It Still Wins &lpar;Even in the AI Era&rpar;](https://markodenic.com/why-use-wordpress/)
-- [5 Ways to Grow Your X/Twitter Account Organically in 2026](https://markodenic.com/5-ways-to-grow-your-x-twitter-account-organically-in-2026/)
+- [SEO Checklist for Developers: What Actually Matters](https://markodenic.com/seo-checklist-for-developers/)
+- [How to Open a Link in a New Tab &lpar;HTML target=”_blank”&rpar;](https://markodenic.com/open-link-in-new-tab/)
+- [Fix “Cannot use import statement outside a module” in JavaScript](https://markodenic.com/cannot-use-import-statement-outside-a-module/)
+- [CSS Grid: grid-template-columns, fr and repeat&lpar;&rpar; Explained](https://markodenic.com/css-grid/)
+- [HTTP Status Codes: The Complete List, Explained](https://markodenic.com/http-status-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
