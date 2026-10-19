@@ -43,11 +43,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest CSS snippets
 <!-- CSS-SNIPPETS-LIST:START -->
+- [CSS Wave Shape: Wavy Section Dividers and Backgrounds](https://markodenic.com/snippets/css/wave-shape/)
+- [CSS Blob Shape: Organic Blobs with border-radius](https://markodenic.com/snippets/css/blob-shape/)
 - [Tailwind animate-pulse: Pulse Animation Explained &lpar;+ Plain CSS&rpar;](https://markodenic.com/snippets/css/tailwind-animate-pulse/)
 - [CSS Glass Effect: Frosted Glass Background with backdrop-filter](https://markodenic.com/snippets/css/glass-effect/)
 - [Mix Blend Mode with Video Background](https://markodenic.com/snippets/css/mix-blend-mode-with-video-background/)
-- [Marquee with Pause on Hover](https://markodenic.com/snippets/css/marquee-with-pause-on-hover/)
-- [Animated Gradient Border in CSS](https://markodenic.com/snippets/css/animated-border/)
 <!-- CSS-SNIPPETS-LIST:END -->
 
 ### Latest JavaScript snippets
