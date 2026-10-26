@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
-2. ❗ Opened issue [#49](https://github.com/plenaryapp/awesome-rss-feeds/issues/49) in [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds)
-3. 💪 Opened PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
-4. ❗ Opened issue [#42](https://github.com/impressivewebs/frontend-feeds/issues/42) in [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds)
-5. ❌ Closed PR [#558](https://github.com/markodenic/awesome-tech-blogs/pull/558) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ❗ Opened issue [#6904](https://github.com/fmhy/edit/issues/6904) in [fmhy/edit](https://github.com/fmhy/edit)
+2. 💪 Opened PR [#2225](https://github.com/hilmanski/freeStuffDev/pull/2225) in [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)
+3. 🎉 Merged PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
+4. ❗ Opened issue [#49](https://github.com/plenaryapp/awesome-rss-feeds/issues/49) in [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds)
+5. 💪 Opened PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
 <!--END_SECTION:activity-->
 
