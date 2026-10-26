@@ -43,11 +43,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest CSS snippets
 <!-- CSS-SNIPPETS-LIST:START -->
+- [CSS Progress Bar: Custom, Animated and Native](https://markodenic.com/snippets/css/progress-bar/)
+- [Pure CSS Tabs &lpar;No JavaScript&rpar;](https://markodenic.com/snippets/css/pure-css-tabs/)
 - [CSS Wave Shape: Wavy Section Dividers and Backgrounds](https://markodenic.com/snippets/css/wave-shape/)
 - [CSS Blob Shape: Organic Blobs with border-radius](https://markodenic.com/snippets/css/blob-shape/)
 - [Tailwind animate-pulse: Pulse Animation Explained &lpar;+ Plain CSS&rpar;](https://markodenic.com/snippets/css/tailwind-animate-pulse/)
-- [CSS Glass Effect: Frosted Glass Background with backdrop-filter](https://markodenic.com/snippets/css/glass-effect/)
-- [Mix Blend Mode with Video Background](https://markodenic.com/snippets/css/mix-blend-mode-with-video-background/)
 <!-- CSS-SNIPPETS-LIST:END -->
 
 ### Latest JavaScript snippets
