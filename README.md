@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Highlight search matches without touching the DOM](https://markodenic.tech/highlight-search-matches-without-touching-the-dom/)
 - [Your articles need a “Copy for AI” button](https://markodenic.tech/your-articles-need-a-copy-for-ai-button/)
 - [Stream AI answers word by word in 15 lines](https://markodenic.tech/stream-ai-answers-word-by-word-in-15-lines/)
 - [Let AI agents use your site with 3 HTML attributes](https://markodenic.tech/let-ai-agents-use-your-site-with-3-html-attributes/)
 - [Skeleton loaders in pure CSS](https://markodenic.tech/skeleton-loaders-in-pure-css/)
-- [Skip the CSV export library: 12 lines of vanilla JS](https://markodenic.tech/export-any-table-to-csv-in-12-lines/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
