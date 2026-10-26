@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [BEM in CSS: Block, Element, Modifier Naming Explained](https://markodenic.com/bem-css/)
-- [URLSearchParams: Read and Update URL Query Parameters in JavaScript](https://markodenic.com/urlsearchparams/)
-- [CSS !important: What It Does and When to Use It](https://markodenic.com/css-important/)
-- [Is HTML a Programming Language? &lpar;And What About CSS?&rpar;](https://markodenic.com/is-html-a-programming-language/)
-- [How to Send Code Blocks in Discord &lpar;With Syntax Highlighting&rpar;](https://markodenic.com/discord-code-block/)
+- [npm uninstall: How to Remove &lpar;and Update&rpar; npm Packages](https://markodenic.com/npm-uninstall-package/)
+- [CSS radial-gradient&lpar;&rpar;: Syntax and Examples](https://markodenic.com/radial-gradient-css/)
+- [Headless WordPress: What It Is, Pros and Cons, and How to Start](https://markodenic.com/headless-wordpress/)
+- [Truncate Text in CSS: text-overflow: ellipsis and line-clamp](https://markodenic.com/text-overflow-ellipsis/)
+- [CSS Class Selector: Single, Multiple and Combined Classes](https://markodenic.com/css-class-selector/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
