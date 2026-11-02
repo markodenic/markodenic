@@ -43,11 +43,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest CSS snippets
 <!-- CSS-SNIPPETS-LIST:START -->
+- [CSS scrollbar-gutter: Stop Layout Shift When the Scrollbar Appears](https://markodenic.com/snippets/css/scrollbar-gutter/)
+- [Flip an Image with CSS &lpar;Horizontally and Vertically&rpar;](https://markodenic.com/snippets/css/flip-image/)
+- [Neon Text Effect in CSS &lpar;Glowing Text&rpar;](https://markodenic.com/snippets/css/neon-text/)
 - [CSS Progress Bar: Custom, Animated and Native](https://markodenic.com/snippets/css/progress-bar/)
 - [Pure CSS Tabs &lpar;No JavaScript&rpar;](https://markodenic.com/snippets/css/pure-css-tabs/)
-- [CSS Wave Shape: Wavy Section Dividers and Backgrounds](https://markodenic.com/snippets/css/wave-shape/)
-- [CSS Blob Shape: Organic Blobs with border-radius](https://markodenic.com/snippets/css/blob-shape/)
-- [Tailwind animate-pulse: Pulse Animation Explained &lpar;+ Plain CSS&rpar;](https://markodenic.com/snippets/css/tailwind-animate-pulse/)
 <!-- CSS-SNIPPETS-LIST:END -->
 
 ### Latest JavaScript snippets
