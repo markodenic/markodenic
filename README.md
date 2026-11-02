@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [npm uninstall: How to Remove &lpar;and Update&rpar; npm Packages](https://markodenic.com/npm-uninstall-package/)
-- [CSS radial-gradient&lpar;&rpar;: Syntax and Examples](https://markodenic.com/radial-gradient-css/)
-- [Headless WordPress: What It Is, Pros and Cons, and How to Start](https://markodenic.com/headless-wordpress/)
-- [Truncate Text in CSS: text-overflow: ellipsis and line-clamp](https://markodenic.com/text-overflow-ellipsis/)
-- [CSS Class Selector: Single, Multiple and Combined Classes](https://markodenic.com/css-class-selector/)
+- [How to Make Text Italic in HTML &lpar;i vs em vs CSS&rpar;](https://markodenic.com/html-italics/)
+- [How to Add a Seasonal Theme to Your Website &lpar;Halloween Example&rpar;](https://markodenic.com/seasonal-website-theme/)
+- [Striped Backgrounds in CSS &lpar;Horizontal, Vertical, Diagonal&rpar;](https://markodenic.com/css-striped-background/)
+- [How to Serve Markdown to AI Agents &lpar;and Why&rpar;](https://markodenic.com/serve-markdown-to-ai-agents/)
+- [JavaScript typeof Operator: Every Result and Its Quirks](https://markodenic.com/javascript-typeof/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
