@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6904](https://github.com/fmhy/edit/issues/6904) in [fmhy/edit](https://github.com/fmhy/edit)
-2. 💪 Opened PR [#2225](https://github.com/hilmanski/freeStuffDev/pull/2225) in [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)
-3. 🎉 Merged PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
-4. ❗ Opened issue [#49](https://github.com/plenaryapp/awesome-rss-feeds/issues/49) in [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds)
-5. 💪 Opened PR [#110](https://github.com/surprisetalk/blogs.hn/pull/110) in [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn)
+1. 💪 Opened PR [#4610](https://github.com/vuejs/awesome-vue/pull/4610) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+2. 💪 Opened PR [#4609](https://github.com/vuejs/awesome-vue/pull/4609) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+3. 🎉 Merged PR [#45](https://github.com/impressivewebs/frontend-feeds/pull/45) in [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds)
+4. 💪 Opened PR [#3178](https://github.com/unovue/reka-ui/pull/3178) in [unovue/reka-ui](https://github.com/unovue/reka-ui)
+5. 💪 Opened PR [#1208](https://github.com/sorrycc/awesome-javascript/pull/1208) in [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 <!--END_SECTION:activity-->
 
