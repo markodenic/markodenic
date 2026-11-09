@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Text Italic in HTML &lpar;i vs em vs CSS&rpar;](https://markodenic.com/html-italics/)
-- [How to Add a Seasonal Theme to Your Website &lpar;Halloween Example&rpar;](https://markodenic.com/seasonal-website-theme/)
-- [Striped Backgrounds in CSS &lpar;Horizontal, Vertical, Diagonal&rpar;](https://markodenic.com/css-striped-background/)
-- [How to Serve Markdown to AI Agents &lpar;and Why&rpar;](https://markodenic.com/serve-markdown-to-ai-agents/)
-- [JavaScript typeof Operator: Every Result and Its Quirks](https://markodenic.com/javascript-typeof/)
+- [ease-in vs ease-out vs ease-in-out: CSS Easing Explained](https://markodenic.com/ease-in-vs-ease-out/)
+- [EmDash CMS Tutorial: Build Your First Site](https://markodenic.com/emdash-cms/)
+- [How to Install Git on Windows &lpar;Step by Step&rpar;](https://markodenic.com/install-git-on-windows/)
+- [How to Style an hr &lpar;Horizontal Rule&rpar; in CSS](https://markodenic.com/css-hr/)
+- [How to Revert to a Previous Commit in Git &lpar;Safely&rpar;](https://markodenic.com/git-revert-to-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
