@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [ease-in vs ease-out vs ease-in-out: CSS Easing Explained](https://markodenic.com/ease-in-vs-ease-out/)
-- [EmDash CMS Tutorial: Build Your First Site](https://markodenic.com/emdash-cms/)
-- [How to Install Git on Windows &lpar;Step by Step&rpar;](https://markodenic.com/install-git-on-windows/)
-- [How to Style an hr &lpar;Horizontal Rule&rpar; in CSS](https://markodenic.com/css-hr/)
-- [How to Revert to a Previous Commit in Git &lpar;Safely&rpar;](https://markodenic.com/git-revert-to-commit/)
+- [Not Equal Sign &lpar;≠, !=, !==&rpar;: Meaning and How to Type It](https://markodenic.com/not-equal-sign/)
+- [var vs let vs const in JavaScript: What’s the Difference?](https://markodenic.com/var-let-const/)
+- [What Is Coding? A Plain-English Guide for Beginners](https://markodenic.com/what-is-coding/)
+- [HTTP Methods: GET, POST, PUT, PATCH and DELETE Explained](https://markodenic.com/http-methods/)
+- [CSS aspect-ratio: Responsive Boxes, Images and Videos](https://markodenic.com/css-aspect-ratio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
