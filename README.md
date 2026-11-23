@@ -63,11 +63,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest newsletter issues
 <!-- NEWSLETTER-ISSUES-LIST:START -->
+- [Style the native select in 4 lines of CSS](https://markodenic.tech/style-the-native-select-in-4-lines-of-css/)
 - [Show users exactly what the AI changed before they accept it](https://markodenic.tech/show-users-exactly-what-the-ai-changed-before-they-accept-it/)
 - [Make your stats count up with zero JavaScript](https://markodenic.tech/make-your-stats-count-up-with-zero-javascript/)
 - [Your AI chat scrolls wrong. Fix it in 4 lines of CSS](https://markodenic.tech/your-ai-chat-scrolls-wrong-fix-it-in-4-lines-of-css/)
 - [Highlight search matches without touching the DOM](https://markodenic.tech/highlight-search-matches-without-touching-the-dom/)
-- [Your articles need a “Copy for AI” button](https://markodenic.tech/your-articles-need-a-copy-for-ai-button/)
 <!-- NEWSLETTER-ISSUES-LIST:END -->
 
 ### Latest Videos on YouTube
