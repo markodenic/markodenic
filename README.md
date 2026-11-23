@@ -78,10 +78,10 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/webmachinelearning/awesome-webmcp/pull/82) in [webmachinelearning/awesome-webmcp](https://github.com/webmachinelearning/awesome-webmcp)
-2. 💪 Opened PR [#2054](https://github.com/Blazemeter/taurus/pull/2054) in [Blazemeter/taurus](https://github.com/Blazemeter/taurus)
-3. 💪 Opened PR [#2319](https://github.com/syntaxfm/website/pull/2319) in [syntaxfm/website](https://github.com/syntaxfm/website)
-4. 🎉 Merged PR [#3178](https://github.com/unovue/reka-ui/pull/3178) in [unovue/reka-ui](https://github.com/unovue/reka-ui)
-5. 💪 Opened PR [#2378](https://github.com/thedaviddias/llms-txt-hub/pull/2378) in [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub)
+1. 🗣 Commented on [#17](https://github.com/markodenic/markodenic/issues/17#issuecomment-6919684953) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+2. 🔒 Closed issue [#17](https://github.com/markodenic/markodenic/issues/17) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+3. 💪 Opened PR [#82](https://github.com/webmachinelearning/awesome-webmcp/pull/82) in [webmachinelearning/awesome-webmcp](https://github.com/webmachinelearning/awesome-webmcp)
+4. 💪 Opened PR [#2054](https://github.com/Blazemeter/taurus/pull/2054) in [Blazemeter/taurus](https://github.com/Blazemeter/taurus)
+5. 💪 Opened PR [#2319](https://github.com/syntaxfm/website/pull/2319) in [syntaxfm/website](https://github.com/syntaxfm/website)
 <!--END_SECTION:activity-->
 
