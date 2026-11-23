@@ -28,11 +28,11 @@ I'm a Web Developer, helping others become one too.
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Not Equal Sign &lpar;≠, !=, !==&rpar;: Meaning and How to Type It](https://markodenic.com/not-equal-sign/)
-- [var vs let vs const in JavaScript: What’s the Difference?](https://markodenic.com/var-let-const/)
-- [What Is Coding? A Plain-English Guide for Beginners](https://markodenic.com/what-is-coding/)
-- [HTTP Methods: GET, POST, PUT, PATCH and DELETE Explained](https://markodenic.com/http-methods/)
-- [CSS aspect-ratio: Responsive Boxes, Images and Videos](https://markodenic.com/css-aspect-ratio/)
+- [JavaScript Promises Explained: then, async/await and Promise.all](https://markodenic.com/javascript-promises/)
+- [CSS Variables: How to Use Custom Properties](https://markodenic.com/css-variables/)
+- [What Is YAML? The .yml File Format Explained](https://markodenic.com/what-is-yaml/)
+- [HTML Symbols and Entities: Bullet, Arrow, Check Mark](https://markodenic.com/html-symbols/)
+- [How to Center a Div in CSS &lpar;Horizontally and Vertically&rpar;](https://markodenic.com/center-a-div/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest HTML snippets
